@@ -2,6 +2,8 @@
 
 A simple Python game where two or more players rolls a dice and battle for victory. The higher dice roll wins the round. 
 
+Hello Alfred nice game!
+
 ## Features
 - Multiplayer dice battle 
 - Random dice rolls using Python's `random` module
@@ -19,3 +21,4 @@ git clone https://github.com/alfredthors-2004/DS2006.git
 ##  Good Luck playing Battle of dices
 
 ##  Simple rules, easy to learn
+
