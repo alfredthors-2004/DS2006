@@ -17,3 +17,5 @@ Clone the repository and navigate to the project folder:
 git clone https://github.com/alfredthors-2004/DS2006.git
 
 ##  Good Luck playing Battle of dices
+
+##  Simple rules, easy to learn
